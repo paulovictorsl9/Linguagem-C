@@ -1,2 +1,2 @@
 # Linguagem-C
-Exercícios de lógica e algorítimos utilizando a linguagem C
+Exercícios de lógica e algorítimos no console utilizando a linguagem C
